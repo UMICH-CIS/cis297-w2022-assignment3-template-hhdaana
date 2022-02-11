@@ -1,0 +1,8 @@
+C:\Users\alial\source\repos\cis297-w2022-assignment3-template-hhdaana\BankApplication\bin\Debug\BankApplication.exe.config
+C:\Users\alial\source\repos\cis297-w2022-assignment3-template-hhdaana\BankApplication\bin\Debug\BankApplication.exe
+C:\Users\alial\source\repos\cis297-w2022-assignment3-template-hhdaana\BankApplication\bin\Debug\BankApplication.pdb
+C:\Users\alial\source\repos\cis297-w2022-assignment3-template-hhdaana\BankApplication\obj\Debug\BankApplication.csproj.AssemblyReference.cache
+C:\Users\alial\source\repos\cis297-w2022-assignment3-template-hhdaana\BankApplication\obj\Debug\BankApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\alial\source\repos\cis297-w2022-assignment3-template-hhdaana\BankApplication\obj\Debug\BankApplication.csproj.CoreCompileInputs.cache
+C:\Users\alial\source\repos\cis297-w2022-assignment3-template-hhdaana\BankApplication\obj\Debug\BankApplication.exe
+C:\Users\alial\source\repos\cis297-w2022-assignment3-template-hhdaana\BankApplication\obj\Debug\BankApplication.pdb
